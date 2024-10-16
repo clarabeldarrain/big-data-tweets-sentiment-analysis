@@ -1,4 +1,4 @@
-# Big Data Analytics with Hadoop, MongoDB, and Apache Spark
+# Big Data Analytics with Hadoop, MongoDB, and Apache Spark | Sentiment Analysis and Time Series Forecasting
 
 ## Project Overview
 This project demonstrates the use of Hadoop, MongoDB, and Apache Spark for handling large-scale data, integrating storage, processing, and machine learning techniques. We explore big data management, data preprocessing, and time-series forecasting models such as ARIMA and LSTM for sentiment analysis.
@@ -10,6 +10,12 @@ This project demonstrates the use of Hadoop, MongoDB, and Apache Spark for handl
 4. **SQL & Python Integration**: SQL is used for data cleaning and manipulation, while Python handles orchestration between Hadoop, MongoDB, and Apache Spark, as well as advanced data analytics.
 5. **Time-Series Forecasting**: Includes both ARIMA and LSTM models to forecast sentiment trends over time, providing insights into future sentiment fluctuations.
 6. **YCSB Benchmarking**: Benchmarking SQL and MongoDB databases using YCSB to compare performance under different workloads.
+
+## Notebooks:
+This project is divided into three parts:
+1. **Part 1 - Big Data (Terminal + SQL Queries), short EDA**: Initial data exploration, terminal-based commands for Hadoop, SQL querying, and basic exploratory data analysis (EDA).
+2. **Part 2 - EDA, Preprocessing, and Sentiment Analysis**: Advanced EDA and data preprocessing for sentiment analysis. This notebook focuses on preparing the text data for machine learning.
+3. **Part 3 - Time Series + Dashboard**: Time-series forecasting using ARIMA and LSTM models, and dashboard visualizations following Tuftes' principles.
 
 ## Project Structure:
 - **Data Storage**: Efficient storage using HDFS and MongoDB for structured and semi-structured data.
