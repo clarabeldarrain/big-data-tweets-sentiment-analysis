@@ -22,6 +22,13 @@ This project is organized into three notebooks:
 2. **Part 2 - EDA, Preprocessing, and Sentiment Analysis**: Advanced EDA, text preprocessing, and sentiment analysis preparation.
 3. **Part 3 - Time Series + Dashboard**: Time-series forecasting with ARIMA and LSTM models, along with dashboard visualizations following Tuftes’ principles.
 
+## Data
+The dataset used for this project is too large to be stored in this repository. You can access the dataset via the following link:
+
+[Download Dataset](https://drive.google.com/drive/folders/1jY88q-FhV4lXBDoq5i1-G00vGdTsUDW5?usp=sharing)
+
+Please download the dataset and place it in the appropriate folder before running the scripts.
+
 ## Data Preprocessing for Sentiment Analysis:
 
 - **Text Cleaning**: Removed unnecessary characters and standardized the format of tweets.
